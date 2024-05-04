@@ -1,0 +1,18 @@
+body{
+    background-color: #EADFB4;
+}
+h1, h2{
+    color: #51829B;
+}
+.box > h3.done{
+    color: #9BB0C1;
+}
+.box ul{
+    color: #32012F;
+}
+.box ul li.done{
+    color: #F97300;
+}
+ul p.done{
+    font-size: 0.5rem;
+}
